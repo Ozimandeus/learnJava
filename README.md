@@ -19,4 +19,9 @@ A personal repo for code I create learning Java whilst studing the Head First Ja
 ## BeerSong
 
     Page 14 - BeerSong challenge (find the problem and fix it)
+
+## Phrase-O-Matic
+
+    Page 16 - Phrase-o_matic Typein
+
     

@@ -24,4 +24,10 @@ A personal repo for code I create learning Java whilst studing the Head First Ja
 
     Page 16 - Phrase-o_matic Typein
 
-    
+ ## Code Magnets
+
+    Page 20 - code scrambled excercise
+
+## Be the Complier
+
+    Page 21 - Excercises

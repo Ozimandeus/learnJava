@@ -31,3 +31,11 @@ A personal repo for code I create learning Java whilst studying the Head First J
 ## Be the Complier
 
     Page 21 - Exercises
+
+## Dog Examples
+
+    Page 36 - First Object
+
+## Guess Game
+
+    Page 38 - Getting out of Main

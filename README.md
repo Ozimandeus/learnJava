@@ -1,10 +1,10 @@
 # learnJava
 
-A personal repo for code I create learning Java whilst studing the Head First Java Book.
+A personal repo for code I create learning Java whilst studying the Head First Java Book.
 
 ## aQuickDip
 
-    Page 9 - Writing aclass with a main.
+    Page 9 - Writing a class with a main.
 
 ## whileLoop
 
@@ -22,12 +22,12 @@ A personal repo for code I create learning Java whilst studing the Head First Ja
 
 ## Phrase-O-Matic
 
-    Page 16 - Phrase-o_matic Typein
+    Page 16 - Phrase-o_matic Type in
 
- ## Code Magnets
+## Code Magnets
 
-    Page 20 - code scrambled excercise
+    Page 20 - code scrambled exercise
 
 ## Be the Complier
 
-    Page 21 - Excercises
+    Page 21 - Exercises
